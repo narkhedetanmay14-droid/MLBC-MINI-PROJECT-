@@ -1,0 +1,206 @@
+ID,Name,Age,Salary,Department,Experience_Years,Satisfaction_Score,City,Is_Manager,Performance,Join_Date
+1,Person_1,56.0,500000.0,HR,26.0,9.3,New York,Yes,High,2010-01-01
+2,Person_2,69.0,-5000.0,Marketing,16.0,1.0,Berlin,Yes,High,2010-01-19
+3,Person_3,150.0,77168.41,Marketing,8.0,9.8,Berlin,Yes,Low,2010-02-06
+4,Person_4,32.0,47225.95,Engineering,99.0,5.4,Sydney,No,High,2010-02-24
+5,Person_5,60.0,42872.6,HR,19.0,7.5,New York,No,Medium,2010-03-14
+6,Person_6,25.0,47473.64,Marketing,12.0,,Sydney,Yes,High,2010-04-01
+7,Person_7,,68731.03,Sales,27.0,7.5,Berlin,unknown,Medium,2010-04-19
+8,Person_8,38.0,59931.27,,28.0,5.8,Berlin,No,Medium,2010-05-07
+9,Person_9,56.0,47053.6,Finance,12.0,5.3,?,Yes,Medium,2010-05-25
+10,Person_10,75.0,62699.01,N/A,34.0,8.5,,Yes,High,2010-06-12
+11,Person_11,36.0,56456.16,HR,5.0,2.8,London,No,High,2010-06-30
+12,Person_12,40.0,69529.67,Finance,17.0,9.7,Berlin,Yes,Medium,2010-07-18
+13,Person_13,,44469.2,,4.0,7.4,Berlin,No,High,2010-08-05
+14,Person_14,28.0,50085.07,HR,24.0,2.8,Tokyo,Yes,Medium,2010-08-23
+15,Person_15,,49118.38,Sales,1.0,7.6,Tokyo,No,Low,2010-09-10
+16,Person_16,70.0,,Sales,9.0,5.8,?,Yes,Low,2010-09-28
+17,Person_17,53.0,59441.8,Engineering,29.0,7.4,Sydney,Yes,Medium,2010-10-16
+18,Person_18,57.0,58915.83,HR,4.0,7.9,London,No,Medium,2010-11-03
+19,Person_19,41.0,55076.7,Marketing,,1.8,London,Yes,High,2010-11-21
+20,Person_20,20.0,,Finance,0.0,5.6,New York,No,Low,2010-12-09
+21,Person_21,39.0,33769.44,Finance,17.0,9.4,Sydney,Yes,Medium,2010-12-27
+22,Person_22,70.0,48690.32,Marketing,31.0,3.9,Berlin,No,Low,2011-01-14
+23,Person_23,19.0,49859.28,N/A,10.0,6.3,Sydney,No,High,2011-02-01
+24,Person_24,41.0,42965.84,Finance,,4.3,Berlin,No,High,2011-02-19
+25,Person_25,61.0,52580.71,HR,25.0,5.1,Tokyo,No,MEDIUM,2011-03-09
+26,Person_26,47.0,61060.76,Engineering,24.0,,Sydney,Yes,High,2011-03-27
+27,Person_27,55.0,83292.79,HR,21.0,5.9,Tokyo,Yes,Low,2011-04-14
+28,Person_28,19.0,57618.67,,26.0,2.8,London,No,High,2011-05-02
+29,Person_29,77.0,58863.26,Engineering,12.0,7.2,London,No,Medium,2011-05-20
+30,Person_30,38.0,53883.31,Finance,32.0,1.8,New York,No,High,2011-06-07
+31,Person_31,50.0,26218.43,Engineering,33.0,,Sydney,Yes,Low,2011-06-25
+32,Person_32,29.0,54602.29,Engineering,34.0,1.0,Tokyo,Yes,Medium,2011-07-13
+33,Person_33,75.0,55903.45,Engineering,0.0,2.1,Berlin,Yes,High,2011-07-31
+34,Person_34,39.0,91948.63,,20.0,5.3,London,Yes,Medium,2011-08-18
+35,Person_35,78.0,52114.59,HR,5.0,6.5,London,No,Low,2011-09-05
+36,Person_36,,59523.21,Sales,27.0,8.1,,No,Low,2011-09-23
+37,Person_37,42.0,54479.32,Marketing,16.0,2.0,Tokyo,No,Medium,2011-10-11
+38,Person_38,66.0,,Engineering,4.0,8.7,Tokyo,Yes,Medium,2011-10-29
+39,Person_39,44.0,72142.34,Finance,30.0,7.7,Sydney,Yes,Low,2011-11-16
+40,Person_40,76.0,,Engineering,4.0,4.7,Sydney,Yes,Medium,2011-12-04
+41,Person_41,59.0,66865.48,Finance,2.0,9.4,New York,No,Low,2011-12-22
+42,Person_42,45.0,41359.19,HR,22.0,9.9,London,No,High,2012-01-09
+43,Person_43,77.0,76041.91,,9.0,2.8,,Yes,Low,2012-01-27
+44,Person_44,33.0,33972.23,Marketing,9.0,4.4,Tokyo,No,Medium,2012-02-14
+45,Person_45,32.0,63802.86,Sales,18.0,9.3,Berlin,Yes,Low,2012-03-03
+46,Person_46,79.0,87856.83,Finance,16.0,7.5,Tokyo,Yes,Medium,2012-03-21
+47,Person_47,79.0,40141.96,Finance,20.0,1.4,London,No,High,2012-04-08
+48,Person_48,,46505.53,Sales,13.0,8.0,Tokyo,Yes,Medium,2012-04-26
+49,Person_49,79.0,56494.77,Marketing,8.0,8.5,New York,No,Low,2012-05-14
+50,Person_50,68.0,47447.87,Engineering,0.0,7.8,London,Yes,High,2012-06-01
+51,Person_51,61.0,31740.05,Finance,12.0,8.2,Berlin,No,High,2012-06-19
+52,Person_52,72.0,56028.44,Sales,3.0,8.4,New York,No,Low,2012-07-07
+53,Person_53,69.0,39065.44,HR,0.0,2.7,,No,High,2012-07-25
+54,Person_54,74.0,62103.89,Sales,31.0,3.1,Berlin,Yes,High,2012-08-12
+55,Person_55,20.0,41208.64,HR,33.0,6.7,New York,Yes,Low,2012-08-30
+56,Person_56,54.0,78249.02,Marketing,27.0,9.2,New York,No,High,2012-09-17
+57,Person_57,68.0,43251.2,Engineering,30.0,3.8,London,No,High,2012-10-05
+58,Person_58,24.0,,Sales,7.0,6.3,Sydney,Yes,Medium,2012-10-23
+59,Person_59,38.0,67202.76,Finance,25.0,7.1,New York,Yes,Low,2012-11-10
+60,Person_60,26.0,36537.04,Marketing,33.0,5.1,New York,Yes,Low,2012-11-28
+61,Person_61,56.0,58411.9,Sales,2.0,,Berlin,No,High,2012-12-16
+62,Person_62,35.0,74607.14,  Finance  ,11.0,9.1,Tokyo,Yes,High,2013-01-03
+63,Person_63,21.0,30887.75,Sales,0.0,6.6,London,Yes,Medium,2013-01-21
+64,Person_64,42.0,57769.51,HR,4.0,5.9,London,No,Medium,2013-02-08
+65,Person_65,77.0,58898.24,Sales,29.0,4.9,Sydney,Yes,Medium,2013-02-26
+66,Person_66,31.0,66727.34,Sales,29.0,,Sydney,Yes,Medium,2013-03-16
+67,Person_67,67.0,36445.74,Sales,16.0,4.2,London,Yes,Medium,2013-04-03
+68,Person_68,75.0,35193.15,Marketing,22.0,4.5,Sydney,No,Low,2013-04-21
+69,Person_69,26.0,62829.12,Sales,14.0,5.8,Berlin,No,High,2013-05-09
+70,Person_70,43.0,59454.77,Finance,20.0,1.6,London,No,Medium,2013-05-27
+71,Person_71,,58757.39,HR,,3.1,Sydney,No,High,2013-06-14
+72,Person_72,19.0,60196.72,  HR  ,,5.9,London,No,Medium,2013-07-02
+73,Person_73,37.0,44799.63,Sales,10.0,4.9,Tokyo,No,Low,2013-07-20
+74,Person_74,45.0,58483.81,Marketing,33.0,4.0,New York,No,Low,2013-08-07
+75,Person_75,64.0,59396.09,Marketing,33.0,7.6,London,Yes,Medium,2013-08-25
+76,Person_76,77.0,44284.73,Finance,17.0,7.2,New York,Yes,High,2013-09-12
+77,Person_77,24.0,82986.62,Sales,29.0,2.5,Sydney,No,Low,2013-09-30
+78,Person_78,61.0,62107.49,HR,14.0,8.9,,Yes,High,2013-10-18
+79,Person_79,78.0,,N/A,26.0,5.5,London,unknown,Medium,2013-11-05
+80,Person_80,25.0,64848.3,Sales,33.0,7.7,Tokyo,No,High,2013-11-23
+81,Person_81,64.0,40379.77,Marketing,32.0,6.2,Sydney,Yes,Medium,2013-12-11
+82,Person_82,52.0,66806.27,Marketing,23.0,,London,Yes,High,2013-12-29
+83,Person_83,,72378.93,HR,14.0,7.8,,Yes,High,2014-01-16
+84,Person_84,34.0,42689.77,Engineering,29.0,7.4,Berlin,Yes,Medium,2014-02-03
+85,Person_85,53.0,69450.64,,16.0,8.0,New York,Yes,Low,2014-02-21
+86,Person_86,67.0,61191.71,Finance,4.0,2.3,Berlin,No,High,2014-03-11
+87,Person_87,57.0,67330.9,HR,28.0,2.8,London,No,High,2014-03-29
+88,Person_88,21.0,83451.89,Marketing,3.0,7.4,Tokyo,No,Low,2014-04-16
+89,Person_89,19.0,51319.18,Sales,9.0,5.4,Sydney,Yes,High,2014-05-04
+90,Person_90,79.0,43693.96,Marketing,16.0,7.8,New York,No,High,2014-05-22
+91,Person_91,23.0,41657.28,HR,9.0,1.9,Sydney,Yes,High,2014-06-09
+92,Person_92,71.0,42762.85,Finance,16.0,5.8,London,Yes,High,2014-06-27
+93,Person_93,59.0,53843.47,Marketing,19.0,4.4,Sydney,Yes,High,2014-07-15
+94,Person_94,21.0,60117.28,Finance,23.0,5.1,New York,Yes,Medium,2014-08-02
+95,Person_95,71.0,59150.36,Sales,4.0,6.4,London,No,Medium,2014-08-20
+96,Person_96,46.0,67407.75,Finance,,5.5,Sydney,No,Medium,2014-09-07
+97,Person_97,35.0,55195.03,Finance,5.0,5.9,Tokyo,Yes,High,2014-09-25
+98,Person_98,43.0,76803.01,  Engineering  ,1.0,5.4,London,No,High,2014-10-13
+99,Person_99,61.0,51030.15,Engineering,12.0,4.7,London,Yes,Medium,2014-10-31
+100,Person_100,51.0,,Engineering,10.0,7.9,Tokyo,No,High,2014-11-18
+101,Person_101,27.0,64385.01,Finance,22.0,1.1,Berlin,No,High,2014-12-06
+102,Person_102,79.0,42142.64,HR,15.0,6.4,New York,Yes,Medium,2014-12-24
+103,Person_103,53.0,,Finance,,,Berlin,No,Medium,2015-01-11
+104,Person_104,31.0,62237.09,HR,10.0,7.4,Sydney,Yes,Medium,2015-01-29
+105,Person_105,48.0,51648.06,HR,15.0,6.4,Tokyo,No,Low,2015-02-16
+106,Person_106,65.0,65710.01,  Engineering  ,7.0,8.4,Berlin,Yes,Medium,2015-03-06
+107,Person_107,32.0,62098.56,Marketing,3.0,,London,Yes,Low,2015-03-24
+108,Person_108,25.0,53907.57,Sales,3.0,4.1,Sydney,No,Low,2015-04-11
+109,Person_109,31.0,42298.09,Engineering,24.0,3.0,Sydney,No,Medium,2015-04-29
+110,Person_110,40.0,32277.29,Engineering,2.0,4.8,Berlin,Yes,Medium,2015-05-17
+111,Person_111,77.0,48302.28,  Marketing  ,,3.6,Berlin,No,Low,2015-06-04
+112,Person_112,74.0,67845.98,Sales,2.0,6.5,Tokyo,No,High,2015-06-22
+113,Person_113,79.0,,Finance,26.0,9.2,New York,Yes,Medium,2015-07-10
+114,Person_114,57.0,36313.92,Finance,28.0,2.3,Berlin,Yes,High,2015-07-28
+115,Person_115,38.0,,Engineering,31.0,1.9,Berlin,No,High,2015-08-15
+116,Person_116,33.0,60779.76,Sales,18.0,3.3,London,Yes,Low,2015-09-02
+117,Person_117,62.0,41742.14,Engineering,20.0,7.5,,Yes,Medium,2015-09-20
+118,Person_118,35.0,57305.88,HR,4.0,6.3,,Yes,Low,2015-10-08
+119,Person_119,64.0,55873.13,Engineering,17.0,1.9,London,No,MEDIUM,2015-10-26
+120,Person_120,70.0,37855.45,Engineering,27.0,9.3,Tokyo,No,Medium,2015-11-13
+121,Person_121,41.0,60366.81,Finance,21.0,8.1,Tokyo,Yes,Medium,2015-12-01
+122,Person_122,43.0,63411.77,,20.0,1.2,Berlin,No,Medium,2015-12-19
+123,Person_123,42.0,71245.77,Finance,5.0,,Berlin,Yes,MEDIUM,2016-01-06
+124,Person_124,77.0,70807.03,HR,0.0,7.9,Tokyo,No,Low,2016-01-24
+125,Person_125,77.0,34334.96,Finance,,4.4,Berlin,Yes,Medium,2016-02-11
+126,Person_126,77.0,40932.62,Sales,11.0,1.6,New York,Yes,Medium,2016-02-29
+127,Person_127,62.0,62725.53,Marketing,25.0,1.7,Berlin,No,Medium,2016-03-18
+128,Person_128,,62706.79,Sales,33.0,1.9,Sydney,Yes,Medium,2016-04-05
+129,Person_129,,62725.72,Sales,13.0,8.6,Berlin,No,High,2016-04-23
+130,Person_130,32.0,112790.97,Finance,,9.2,London,No,Low,2016-05-11
+131,Person_131,62.0,63563.36,,26.0,,New York,Yes,Medium,2016-05-29
+132,Person_132,18.0,72033.48,Marketing,8.0,3.1,London,Yes,Medium,2016-06-16
+133,Person_133,42.0,69310.03,Marketing,25.0,2.5,London,No,Medium,2016-07-04
+134,Person_134,24.0,64770.87,HR,21.0,,Sydney,Yes,High,2016-07-22
+135,Person_135,26.0,50270.96,Finance,29.0,8.5,New York,Yes,High,2016-08-09
+136,Person_136,,66384.54,Marketing,16.0,4.0,?,Yes,Medium,2016-08-27
+137,Person_137,18.0,43407.62,N/A,25.0,3.8,New York,Yes,High,2016-09-14
+138,Person_138,61.0,51447.72,Engineering,0.0,3.0,New York,Yes,High,2016-10-02
+139,Person_139,25.0,47719.55,Engineering,7.0,6.5,New York,No,High,2016-10-20
+140,Person_140,41.0,56228.11,HR,34.0,4.4,Sydney,No,High,2016-11-07
+141,Person_141,28.0,89719.88,HR,14.0,7.7,Berlin,Yes,High,2016-11-25
+142,Person_142,,26991.02,Finance,21.0,2.9,London,Yes,Low,2016-12-13
+143,Person_143,34.0,65293.9,Finance,13.0,8.1,New York,Yes,Low,2016-12-31
+144,Person_144,,30809.26,Engineering,25.0,6.4,,No,Medium,2017-01-18
+145,Person_145,52.0,47921.02,Marketing,27.0,2.0,Berlin,Yes,Low,2017-02-05
+146,Person_146,52.0,71334.26,Engineering,,4.7,London,No,Medium,2017-02-23
+147,Person_147,50.0,55964.2,Marketing,13.0,8.8,Sydney,No,Medium,2017-03-13
+148,Person_148,76.0,38833.83,Marketing,23.0,9.3,Tokyo,No,Medium,2017-03-31
+149,Person_149,22.0,44270.44,Finance,1.0,5.2,Tokyo,Yes,High,2017-04-18
+150,Person_150,59.0,65193.97,Sales,25.0,5.3,Berlin,No,High,2017-05-06
+151,Person_151,56.0,44044.5,Sales,13.0,9.3,London,Yes,Low,2017-05-24
+152,Person_152,75.0,58246.88,HR,,6.3,Tokyo,No,Medium,2017-06-11
+153,Person_153,58.0,55683.58,Finance,,1.3,Berlin,Yes,High,2017-06-29
+154,Person_154,45.0,45225.99,Marketing,22.0,9.2,Sydney,No,Low,2017-07-17
+155,Person_155,24.0,87159.16,  Sales  ,17.0,3.2,Tokyo,Yes,High,2017-08-04
+156,Person_156,26.0,64508.79,Marketing,34.0,6.2,Berlin,No,Medium,2017-08-22
+157,Person_157,25.0,24622.86,Sales,14.0,2.5,Berlin,Yes,Medium,2017-09-09
+158,Person_158,29.0,57796.81,Sales,24.0,1.3,New York,Yes,HIGH,2017-09-27
+159,Person_159,51.0,45073.2,Sales,27.0,3.8,Sydney,Yes,Medium,2017-10-15
+160,Person_160,50.0,67786.5,Finance,9.0,8.0,New York,Yes,Medium,2017-11-02
+161,Person_161,65.0,43112.19,Engineering,16.0,3.5,London,No,High,2017-11-20
+162,Person_162,72.0,,Marketing,21.0,3.0,New York,No,Low,2017-12-08
+163,Person_163,40.0,62574.81,N/A,25.0,,New York,Yes,Medium,2017-12-26
+164,Person_164,79.0,67986.33,Finance,24.0,5.6,Tokyo,No,High,2018-01-13
+165,Person_165,41.0,,Finance,16.0,9.8,Berlin,Yes,LOW,2018-01-31
+166,Person_166,54.0,49982.48,Finance,12.0,5.1,Sydney,Yes,High,2018-02-18
+167,Person_167,52.0,47875.82,Finance,19.0,6.0,New York,No,Medium,2018-03-08
+168,Person_168,61.0,45200.06,HR,24.0,,Sydney,Yes,Medium,2018-03-26
+169,Person_169,57.0,81481.81,Marketing,3.0,5.8,New York,Yes,Medium,2018-04-13
+170,Person_170,39.0,61074.73,  Finance  ,9.0,,London,No,Medium,2018-05-01
+171,Person_171,44.0,36086.74,Marketing,2.0,3.7,New York,Yes,High,2018-05-19
+172,Person_172,52.0,68767.93,HR,17.0,3.8,Tokyo,Yes,High,2018-06-06
+173,Person_173,18.0,86832.34,HR,21.0,4.6,Berlin,Yes,Medium,2018-06-24
+174,Person_174,52.0,70486.98,Marketing,33.0,4.8,London,unknown,HIGH,2018-07-12
+175,Person_175,54.0,,Sales,7.0,8.2,New York,No,Medium,2018-07-30
+176,Person_176,64.0,47736.49,Engineering,18.0,4.1,Sydney,No,Medium,2018-08-17
+177,Person_177,31.0,74003.67,,5.0,5.2,London,No,Medium,2018-09-04
+178,Person_178,20.0,44384.96,Sales,25.0,6.6,London,Yes,Medium,2018-09-22
+179,Person_179,18.0,61657.29,Sales,33.0,4.4,New York,Yes,Medium,2018-10-10
+180,Person_180,22.0,66619.51,Finance,,8.5,London,No,High,2018-10-28
+181,Person_181,43.0,41096.04,HR,32.0,6.3,Sydney,Yes,Medium,2018-11-15
+182,Person_182,72.0,54107.12,Sales,,3.6,London,Yes,Low,2018-12-03
+183,Person_183,31.0,6380.99,HR,20.0,7.4,Sydney,Yes,Low,2018-12-21
+184,Person_184,56.0,39634.19,Marketing,5.0,5.7,New York,Yes,Medium,2019-01-08
+185,Person_185,,51211.48,Engineering,5.0,5.8,Berlin,No,High,2019-01-26
+186,Person_186,26.0,36283.25,Marketing,3.0,5.3,London,No,Medium,2019-02-13
+187,Person_187,32.0,79486.17,  Marketing  ,29.0,5.5,Berlin,No,Medium,2019-03-03
+188,Person_188,32.0,,Finance,10.0,7.9,Sydney,Yes,Medium,2019-03-21
+189,Person_189,43.0,48399.33,Engineering,29.0,1.9,?,No,Medium,2019-04-08
+190,Person_190,59.0,56961.11,Marketing,30.0,4.0,Tokyo,No,Medium,2019-04-26
+191,Person_191,77.0,76619.1,Marketing,23.0,1.7,Berlin,Yes,Medium,2019-05-14
+192,Person_192,,33462.07,Engineering,8.0,7.8,London,Yes,High,2019-06-01
+193,Person_193,68.0,72447.46,Engineering,2.0,3.5,Berlin,No,High,2019-06-19
+194,Person_194,49.0,55153.5,Marketing,30.0,9.1,London,No,Medium,2019-07-07
+195,Person_195,56.0,40277.37,Engineering,,,New York,No,Low,2019-07-25
+196,Person_196,66.0,61931.55,Marketing,30.0,8.2,Berlin,No,Low,2019-08-12
+197,Person_197,69.0,57985.9,Marketing,5.0,9.8,Tokyo,Yes,Low,2019-08-30
+198,Person_198,78.0,,Finance,1.0,8.6,Tokyo,No,Medium,2019-09-17
+199,Person_199,49.0,56047.03,Sales,19.0,8.8,Sydney,No,Medium,2019-10-05
+200,Person_200,21.0,49220.3,Marketing,27.0,4.7,,Yes,Medium,2019-10-23
+11,Person_11,36.0,56456.16,HR,5.0,2.8,London,No,High,2010-06-30
+12,Person_12,40.0,69529.67,Finance,17.0,9.7,Berlin,Yes,Medium,2010-07-18
+13,Person_13,,44469.2,,4.0,7.4,Berlin,No,High,2010-08-05
+14,Person_14,28.0,50085.07,HR,24.0,2.8,Tokyo,Yes,Medium,2010-08-23
+15,Person_15,,49118.38,Sales,1.0,7.6,Tokyo,No,Low,2010-09-10

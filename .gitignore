@@ -1,0 +1,28 @@
+# Virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated outputs
+output/
+reports/
+models/
+
+# Data files (keep sample data)
+data/*.csv
+data/*.xlsx
+data/*.xls
+!data/test_dataset.csv
+!data/test_dataset.xlsx
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
