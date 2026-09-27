@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Automated Data Cleaning & ML System
 
 A complete end-to-end Python system for automated dataset profiling, cleaning, and machine learning, designed to work seamlessly on Windows with a local graphical interface for file selection.
@@ -95,3 +96,6 @@ This will automatically open your default web browser.
 - **Not for Big Data**: This is an in-memory Pandas tool. Very large datasets (> 1-2 GB) may crash the process due to Memory constraints.
 - **Conservative Outliers**: Outliers are only winsorized currently if they constitute `< 5%` of the data to aggressively prevent unintentional data destruction.
 - **Categorical Encoders**: Text features with high cardinality (`>50` unique categories) are dropped from the ML pipelines by default to prevent explosive dummy variable sets (One-Hot Encoded variables).
+=======
+# DATA-CLEANING-USING-ML-33-
+>>>>>>> 653f96799814dcf6bb0e6f61b7cfbe0e6c15d7d9
